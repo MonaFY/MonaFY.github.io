@@ -1,4 +1,35 @@
-## It's a personal blog. First try.
+## This is a personal blog. 
+
+[linux下shell脚本实现文件的批量处理](https://github.com/MonaFY/MonaFY.github.io/_post/linux下shell脚本实现文件的批量处理.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Welcome to GitHub Pages
 
