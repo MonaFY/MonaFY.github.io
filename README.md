@@ -1,4 +1,4 @@
-It's a personal blog. First try.
+## It's a personal blog. First try.
 
 ## Welcome to GitHub Pages
 
